@@ -58,7 +58,6 @@ Das vorgeschlagene Modell nutzt einen mehrstufigen Prozess:
 ---
 
 ## 🔗 References & Links
-* **ResearchGate**: [View Publication](https://www.researchgate.net/publication/282845361_A_model_for_clustering_and_optimizing_portfolio_Tehran_stock_exchange_using_data_mining_algorithms)
 * **Civilica (Official ID)**: [doc/342821/](https://civilica.com/doc/342821/)
 
 ## ⚠️ Data Privacy Note
