@@ -29,7 +29,7 @@ To ensure the highest accuracy, we used the Davies-Bouldin index to find the opt
 ### Key Findings
 The research demonstrates that the hybrid approach significantly improves results compared to traditional methods.
 
-![Performance Comparison](./images/algorithm-performance-comparison.png)
+![Performance Comparison](./images/algorithm-performance-comparison.png.png)
 *Table: Comparison of SSE and Davis-Bouldin values between K-means, SOM, and the Hybrid model.*
 
 * The research identifies that **7 clusters** provide the most optimized grouping.
